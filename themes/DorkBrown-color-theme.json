@@ -22,7 +22,22 @@
 		"titleBar.activeForeground": "#D7C29E",
 		"tab.activeBackground": "#2A211C",
 		"tab.inactiveBackground": "#1E1810",
-		"tab.activeForeground": "#D7C29E"
+		"tab.activeForeground": "#D7C29E",
+
+		/* Git decorations (Explorer/SCM) */
+		"gitDecoration.addedResourceForeground": "#7DBF9B",
+		"gitDecoration.untrackedResourceForeground": "#7DBF9B",
+		"gitDecoration.modifiedResourceForeground": "#C9B06E",
+		"gitDecoration.deletedResourceForeground": "#C56464",
+		"gitDecoration.ignoredResourceForeground": "#5D4D3F",
+		"gitDecoration.conflictingResourceForeground": "#E0A060",
+		"gitDecoration.submoduleResourceForeground": "#9FB46B",
+
+		/* Diff editor */
+		"diffEditor.insertedTextBackground": "#7DBF9B20",
+		"diffEditor.removedTextBackground": "#C5646420",
+		"diffEditor.insertedTextBorder": "#7DBF9B",
+		"diffEditor.removedTextBorder": "#C56464"
 	},
 	"tokenColors": [
 		{
