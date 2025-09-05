@@ -18,6 +18,11 @@
     "green",
     "jungly"
   ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#2A211C",
+    "theme": "dark"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
