@@ -1,0 +1,34 @@
+{
+  "name": "dorkbrown",
+  "displayName": "DorkBrown",
+  "description": "It's brown and it's dorky.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "brown",
+    "tan",
+    "green",
+    "jungly"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "DorkBrown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DorkBrown-color-theme.json"
+      }
+    ]
+  }
+}
