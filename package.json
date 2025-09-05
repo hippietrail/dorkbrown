@@ -2,9 +2,10 @@
   "name": "dorkbrown",
   "displayName": "DorkBrown",
   "description": "It's brown and it's dorky.",
+  "publisher": "hippietrail",
   "version": "0.1.0",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.99.0"
   },
   "categories": [
     "Themes"
